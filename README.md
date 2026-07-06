@@ -71,7 +71,7 @@
 
 **Ссылка на тестовые артефакты и результаты тестирования:** [Google Таблица](https://docs.google.com/spreadsheets/d/1aNzrYlSNZvQb4kfZdKAb7zS3z1lhnDDtQfXeJm6nC-Q/edit?usp=sharing)
 
-##<a name="diploma"></a> Диплом - Комплексное тестирование сервиса Яндекс.Самокат (web, mobile app, REST API, DB)
+## <a name="diploma"></a> Диплом - Комплексное тестирование сервиса Яндекс.Самокат (web, mobile app, REST API, DB)
 Яндекс.Самокат — сервис, который позволяет арендовать самокат на несколько дней.
 
 **Задачи:** 
